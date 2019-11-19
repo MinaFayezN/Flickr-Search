@@ -41,6 +41,14 @@ captures/
 .idea/dictionaries
 .idea/libraries
 .idea/caches
+.idea/modules.xml
+.idea/navEditor.xml
+.idea/vcs.xml
+.idea/runConfigurations.xml
+.idea/misc.xml
+.idea/codeStyles
+.idea/dbnavigator.xml
+.idea/.name
 
 # Keystore files
 # Uncomment the following line if you do not want to check your keystore files in.
@@ -63,3 +71,6 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+
+.DS_Store
+.cxx
